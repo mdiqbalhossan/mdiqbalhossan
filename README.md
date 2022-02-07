@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://drive.google.com/file/d/1ZZ5Rh0wFMIFtMFxssNjNCsc8UY7N7ZfI/view?usp=sharing" alt="cover" />
+<img width="100%" height = "500px" src="https://image.freepik.com/free-vector/business-coach-showing-growth-graph-businesswoman-laptop-training-statistics-flat-illustration-analytics-management-concept-banner-website-design-landing-web-page_74855-14298.jpg?w=740" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
