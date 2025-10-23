@@ -1,35 +1,154 @@
-<h1 align="center">Hi 👋, I'm Md Iqbal Hossen Fazlay Rabbi</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
+<!-- README.md for @mdiqbalhossan -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdiqbalhossan&label=Profile%20views&color=0e75b6&style=flat" alt="mdiqbalhossan" /> </p>
+<h1 align="center">👋 Hi, I'm Iqbal Hossen Fazlay Rabbi</h1>
+<h3 align="center">🚀 Full Stack Software Engineer | Laravel & Vue.js Specialist | SaaS Builder | DevOps Enthusiast</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdiqbalhossan" alt="mdiqbalhossan" /></a> </p>
-
-- 🔭 I’m currently working on [Quick Rabbit](https://quick-rabbit.doorsoft-demo.com/)
-
-- 🌱 I’m currently learning **Machine Learning**
-
-- 👯 I’m looking to collaborate on [iProduction](https://iproduction.doorsoft-demo.com/)
-
-- 👨‍💻 All of my projects are available at [https://iqbal-hossen.com/](https://iqbal-hossen.com/)
-
-- 💬 Ask me about **Laravel, PHP, JavaScript, Python, System Design**
-
-- 📫 How to reach me **jmiqbal2019@gmail.com**
-
-- ⚡ Fun fact **I think I am a critical problem solver**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/engiqbalhossan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/engiqbalhossan" height="30" width="40" /></a>
-<a href="https://fb.com/iqbal.rabby.65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iqbal.rabby.65" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://iqbalhossen.dev" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/md-iqbal-hossen-fazlay-rabbi" target="_blank">💼 LinkedIn</a> •
+  <a href="https://github.com/mdiqbalhossan" target="_blank">💻 GitHub</a> •
+  <a href="mailto:jmiqbal2019@gmail.com">📧 Email</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdiqbalhossan&show_icons=true&locale=en&layout=compact" alt="mdiqbalhossan" /></p>
+### 🧑‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdiqbalhossan&show_icons=true&locale=en" alt="mdiqbalhossan" /></p>
+I am a **Full Stack Software Engineer** with almost **3 years of hands-on experience** in backend development using **Laravel (PHP)** and frontend development with **Vue.js**, **React.js**, and **Next.js**.  
+I’m passionate about building **scalable SaaS platforms**, **RESTful APIs**, and **AI-driven systems**. I value clean, maintainable code and focus on delivering robust solutions that blend functionality and design.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdiqbalhossan&" alt="mdiqbalhossan" /></p>
+💡 I love crafting **intelligent, user-friendly applications** — from **Manufacturing Software** to **AI-Powered Support Platforms**, and everything in between.
+
+---
+
+### ⚙️ Tech Stack
+
+#### 🖥️ Backend
+`PHP` • `Laravel` • `Node.js` • `Electron.js` • `Flutter` • `REST API` • `SOAP` • `OOP` • `SDLC`
+
+#### 💻 Frontend
+`Vue.js` • `React.js` • `Next.js` • `JavaScript` • `jQuery` • `Tailwind CSS` • `Bootstrap` • `AJAX` • `JSON`
+
+#### 🗄️ Database
+`MySQL` • `PostgreSQL` • `SQLite` • `MongoDB`
+
+#### 🧰 Tools & Others
+`Docker` • `AWS` • `CI/CD` • `GitHub` • `Bitbucket` • `Postman` • `Agile` • `Trello` • `ClickUp` • `VS Code` • `PHPStorm`
+
+---
+
+### 🏢 Professional Experience
+
+#### 💼 **Software Engineer | Door Soft** (Feb 2024 – Present)
+- Built and maintained **Manufacturing**, **School Management**, and **Support Portal** systems.  
+- Developed **SaaS platforms** with clean architecture and performance optimization.  
+- Created **AI-based Nurse Exam Management** and **Restaurant Management** apps using **Laravel + Vue.js**.  
+- Developed a **Proctored Exam Desktop App** using **Electron.js**.
+
+#### 💼 **Laravel Developer | TDEVS** (Dec 2023 – Jan 2024)
+- Worked on **Banking Management Software** integrating multiple payment gateways.  
+- Enhanced legacy systems with modern standards and participated in peer code reviews.
+
+#### 💼 **Web Developer | ASO** (May 2023 – Jan 2024)
+- Delivered modern responsive websites using **HTML, CSS, JS, jQuery**.  
+- Improved performance and UX for business web solutions.
+
+#### 💼 **PHP Laravel Developer | Islamiya Tech** (Apr 2023 – Sep 2023)
+- Implemented scalable modules for production apps.  
+- Enhanced existing products through code refactoring and optimization.
+
+#### 💼 **Backend Developer | RBF Tech Zone** (Feb 2023 – Apr 2023)
+- Created secure **RESTful APIs** and managed **SQL performance**.  
+- Integrated multiple **third-party APIs** for real-time app data flow.
+
+---
+
+### 🚀 Featured Projects
+#### 🍽️ **SelfDine AI** – Restaurant Automation Platform  
+AI-based restaurant management for kitchen automation and analytics.  
+🧰 *Vue.js, Laravel, Vuetify, Tailwind CSS*  
+🔗 [Demo](https://selfdineai.doorsoft-demo.com/)
+
+#### 🧑‍⚕️ **Nova Nurse Prep Course** – Intelligent Medical Exam Platform  
+AI-integrated e-learning and testing system with **TensorFlow + Mediapipe**.  
+🧰 *Vue.js, Laravel, Electron.js, TensorFlow*  
+🔗 [Demo](https://nova-nurse.doorsoft-demo.com/)
+
+#### 🏭 **iProduction** – Production & Manufacture Management Software  
+A full-scale manufacturing ERP with inventory, purchase, sales, and reports.  
+🧰 *Laravel, MySQL, jQuery, Bootstrap*  
+🔗 [Demo](https://iproduction.doorsoft-demo.com/)
+
+#### 💬 **Quick Rabbit** – AI-Powered Support Ticketing  
+AI chatbot-powered ticket management system with live chat and knowledge base.  
+🧰 *Laravel, AI Chatbot, MySQL*  
+🔗 [Demo](https://quick-rabbit.doorsoft-demo.com/)
+
+#### 🧠 **Spescho** – Special School IEP & Therapy Software  
+A platform for managing IEP and therapy sessions for special education.  
+🧰 *Laravel, MySQL, Bootstrap*  
+🔗 [Codecanyon](https://codecanyon.net/item/spescho-special-school-iep-and-therapy-software/50936367)
+
+#### 💳 **DigiBank** – Advanced Digital Banking System  
+Digital banking system with reward, transaction, and account management.  
+🧰 *Laravel, MySQL, AJAX*  
+🔗 [Demo](https://digibank.tdevs.co/)
+
+#### 💊 **Pharmacy POS System**  
+Modern POS solution for pharmacies with barcode and invoice features.  
+🧰 *Laravel, Bootstrap, MySQL*  
+🔗 [Demo](https://soft-max.app/demo/pharmapos)
+
+#### 🧾 **SmartBill** – Invoice & Business Management  
+Multi-gateway invoice management software with React and Laravel.  
+🧰 *Laravel, Inertia.js, React.js, MySQL*  
+🔗 [Demo](https://soft-max.app/demo/smartbill)
+
+#### 🌍 **NGO Management System** *(In Progress)*  
+Comprehensive management system built using **Laravel API + Next.js 15**.
+
+---
+
+### 🎓 Education
+**B.Sc. in Computer Science and Engineering**  
+*Institute of Science and Technology, Dhanmondi, Dhaka*  
+📅 *Expected Graduation: Nov 2025*
+
+---
+
+### ❤️ Interests
+- 🧩 Open Source Contribution  
+- 💡 Building SaaS Applications  
+- 🧠 Hackathons & Coding Challenges  
+- 🎨 UI/UX Design & Prototyping  
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:jmiqbal2019@gmail.com"><img src="https://img.shields.io/badge/Email-jmiqbal2019%40gmail.com-red?style=flat-square&logo=gmail"></a>
+  <a href="https://linkedin.com/in/md-iqbal-hossen-fazlay-rabbi"><img src="https://img.shields.io/badge/LinkedIn-Iqbal%20Hossen-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/mdiqbalhossan"><img src="https://img.shields.io/badge/GitHub-md--iqbal--hossan-black?style=flat-square&logo=github"></a>
+  <a href="https://iqbalhossen.dev"><img src="https://img.shields.io/badge/Portfolio-iqbalhossen.dev-orange?style=flat-square&logo=google-chrome"></a>
+</p>
+
+---
+
+### 🧩 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdiqbalhossan&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdiqbalhossan&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdiqbalhossan&theme=tokyonight"/>
+</p>
+
+---
+
+### 🏁 Motto
+> "Clean code is not just code that works — it’s code that speaks clearly, scales gracefully, and inspires confidence."
+
+---
