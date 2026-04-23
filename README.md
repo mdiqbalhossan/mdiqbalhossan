@@ -4,7 +4,7 @@
 <h3 align="center">🚀 Full Stack Software Engineer | Laravel & Vue.js Specialist | SaaS Builder | DevOps Enthusiast</h3>
 
 <p align="center">
-  <a href="https://iqbalhossen.dev" target="_blank">🌐 Portfolio</a> •
+  <a href="https://iqbalhossen.me" target="_blank">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/md-iqbal-hossen-fazlay-rabbi" target="_blank">💼 LinkedIn</a> •
   <a href="https://github.com/mdiqbalhossan" target="_blank">💻 GitHub</a> •
   <a href="mailto:jmiqbal2019@gmail.com">📧 Email</a>
