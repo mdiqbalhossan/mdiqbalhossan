@@ -7,9 +7,9 @@
 
 **Full Stack Software Engineer** · SaaS · AI-Powered Systems · Mobile & Web
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-iqbal-hossen-fazlay-rabbi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdiqbalhossan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.iqbalhossen.me/)
 [![Email](https://img.shields.io/badge/Email-Jmiqbal2019@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Jmiqbal2019@gmail.com)
 
 📍 Dhaka, Bangladesh · 🌍 Open to **remote** and **relocation** (UK · Netherlands · Germany · Australia)
